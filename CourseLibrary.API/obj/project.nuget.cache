@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RX5SrNbUytg13oy6mAZ4Olv8AXL/n16F5gGR5Iql72ZR78oBFbWaQhFaGJPpdv0hiwOspTDmVL4ENCxtWA77Kw==",
+  "dgSpecHash": "veUa1pjUEtZjhoU7jk6p7FdCpCVhNXYIKbXK02KC+gu/Xh3K0WYY52kjczmgMvUIS/oCYWHHNFDM5Ug1+3JKsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\whasa\\Documents\\Projects\\NetCore5\\CourseLibrary.API\\CourseLibrary.API\\CourseLibrary.API.csproj",
+  "projectFilePath": "C:\\Users\\whasa\\Documents\\Projects\\NetCore5\\NetCore5-WebApi\\CourseLibrary.API\\CourseLibrary.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\whasa\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\whasa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

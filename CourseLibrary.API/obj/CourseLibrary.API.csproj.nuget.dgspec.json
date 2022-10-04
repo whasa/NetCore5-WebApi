@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\whasa\\Documents\\Projects\\NetCore5\\CourseLibrary.API\\CourseLibrary.API\\CourseLibrary.API.csproj": {}
+    "C:\\Users\\whasa\\Documents\\Projects\\NetCore5\\NetCore5-WebApi\\CourseLibrary.API\\CourseLibrary.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\whasa\\Documents\\Projects\\NetCore5\\CourseLibrary.API\\CourseLibrary.API\\CourseLibrary.API.csproj": {
+    "C:\\Users\\whasa\\Documents\\Projects\\NetCore5\\NetCore5-WebApi\\CourseLibrary.API\\CourseLibrary.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\whasa\\Documents\\Projects\\NetCore5\\CourseLibrary.API\\CourseLibrary.API\\CourseLibrary.API.csproj",
+        "projectUniqueName": "C:\\Users\\whasa\\Documents\\Projects\\NetCore5\\NetCore5-WebApi\\CourseLibrary.API\\CourseLibrary.API.csproj",
         "projectName": "CourseLibrary.API",
-        "projectPath": "C:\\Users\\whasa\\Documents\\Projects\\NetCore5\\CourseLibrary.API\\CourseLibrary.API\\CourseLibrary.API.csproj",
+        "projectPath": "C:\\Users\\whasa\\Documents\\Projects\\NetCore5\\NetCore5-WebApi\\CourseLibrary.API\\CourseLibrary.API.csproj",
         "packagesPath": "C:\\Users\\whasa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\whasa\\Documents\\Projects\\NetCore5\\CourseLibrary.API\\CourseLibrary.API\\obj\\",
+        "outputPath": "C:\\Users\\whasa\\Documents\\Projects\\NetCore5\\NetCore5-WebApi\\CourseLibrary.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\whasa\\AppData\\Roaming\\NuGet\\NuGet.Config",
