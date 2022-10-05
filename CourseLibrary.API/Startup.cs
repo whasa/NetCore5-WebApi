@@ -33,10 +33,15 @@ namespace CourseLibrary.API
 
             services.AddScoped<ICourseLibraryRepository, CourseLibraryRepository>();
 
+            //services.AddDbContext<CourseLibraryContext>(options =>
+            //{
+            //    options.UseSqlServer(
+            //        @"Server=(localdb)\mssqllocaldb;Database=CourseLibraryDB;Trusted_Connection=True;");
+            //});
             services.AddDbContext<CourseLibraryContext>(options =>
             {
                 options.UseSqlServer(
-                    @"Server=(localdb)\mssqllocaldb;Database=CourseLibraryDB;Trusted_Connection=True;");
+                    @"Data Source=192.168.1.54;Initial Catalog=CourseLibraryDB;User Id=whasa;Password=whasaasahw;");
             });
         }
 

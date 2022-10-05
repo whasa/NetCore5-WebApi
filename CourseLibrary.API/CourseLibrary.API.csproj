@@ -14,4 +14,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="ResourceParameters\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ResourceParameters\" />
+  </ItemGroup>
 </Project>
