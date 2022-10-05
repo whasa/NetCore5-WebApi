@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ricardo/Documents/Projects/NetCore/NetCore5/NetCore5-WebApi/CourseLibrary.API/CourseLibrary.API.csproj": {}
+    "C:\\Users\\whasa\\Documents\\Projects\\NetCore5\\NetCore5-WebApi\\CourseLibrary.API\\CourseLibrary.API.csproj": {}
   },
   "projects": {
-    "/Users/ricardo/Documents/Projects/NetCore/NetCore5/NetCore5-WebApi/CourseLibrary.API/CourseLibrary.API.csproj": {
+    "C:\\Users\\whasa\\Documents\\Projects\\NetCore5\\NetCore5-WebApi\\CourseLibrary.API\\CourseLibrary.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ricardo/Documents/Projects/NetCore/NetCore5/NetCore5-WebApi/CourseLibrary.API/CourseLibrary.API.csproj",
+        "projectUniqueName": "C:\\Users\\whasa\\Documents\\Projects\\NetCore5\\NetCore5-WebApi\\CourseLibrary.API\\CourseLibrary.API.csproj",
         "projectName": "CourseLibrary.API",
-        "projectPath": "/Users/ricardo/Documents/Projects/NetCore/NetCore5/NetCore5-WebApi/CourseLibrary.API/CourseLibrary.API.csproj",
-        "packagesPath": "/Users/ricardo/.nuget/packages/",
-        "outputPath": "/Users/ricardo/Documents/Projects/NetCore/NetCore5/NetCore5-WebApi/CourseLibrary.API/obj/",
+        "projectPath": "C:\\Users\\whasa\\Documents\\Projects\\NetCore5\\NetCore5-WebApi\\CourseLibrary.API\\CourseLibrary.API.csproj",
+        "packagesPath": "C:\\Users\\whasa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\whasa\\Documents\\Projects\\NetCore5\\NetCore5-WebApi\\CourseLibrary.API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/ricardo/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\whasa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +65,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

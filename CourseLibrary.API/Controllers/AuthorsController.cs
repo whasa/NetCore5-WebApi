@@ -27,7 +27,7 @@ namespace CourseLibrary.API.Controllers
         public ActionResult<IEnumerable<AuthorDto>> GetAuthors(
             [FromQuery] AuthorsResourceParamaters authorsResourceParameters)
         {
-            
+
             var authorsFromRepo = _courseLibraryRepository.GetAuthors(authorsResourceParameters);
 
             return Ok(_mapper.Map<IEnumerable<AuthorDto>>(authorsFromRepo));
@@ -45,6 +45,9 @@ namespace CourseLibrary.API.Controllers
 
             return Ok(_mapper.Map<AuthorDto>(authorFromRepo));
         }
+
+        [HttpPost]
+        public ActionResult<AuthorDto> CreateAuthor()
 
     }
 }
